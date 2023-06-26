@@ -3,8 +3,9 @@
 
 
 		
-####Proyecto7 del Libro "[Hacking with iOS: Edición UIKit - Pablo Hudson](http://https://www.hackingwithswift.com/read "Hacking with iOS: Edición UIKit - pablo hudson")"
-####Whitehouse Petitions es una App creada con el fin de tomar una fuente de datos de un sitio web y analizarla en información útil para los usuarios. La opción elegida fué la petición de la Casa Blanca "Nosotros, el pueblo" en los EE. UU., donde los estadounidenses pueden enviar solicitudes de acción y otros pueden votar al respecto.
+#### Proyecto7 del Libro "[Hacking with iOS: Edición UIKit - Pablo Hudson](http://https://www.hackingwithswift.com/read "Hacking with iOS: Edición UIKit - pablo hudson")"
+
+#### Whitehouse Petitions es una App creada con el fin de tomar una fuente de datos de un sitio web y analizarla en información útil para los usuarios. La opción elegida fué la petición de la Casa Blanca "Nosotros, el pueblo" en los EE. UU., donde los estadounidenses pueden enviar solicitudes de acción y otros pueden votar al respecto.
 ---
 
 
